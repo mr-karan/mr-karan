@@ -5,3 +5,5 @@
 - 💬 Ask me about Devops, DNS, Monitoring, Self Hosting and such.
 - 📫 How to reach me: [Twitter](https://twitter.com/mrkaran_)
 - 😄 Pronouns: he/him
+
+[![mr-karan's github stats](https://github-readme-stats.vercel.app/api?username=mr-karan)](https://github.com/anuraghazra/github-readme-stats)
